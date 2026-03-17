@@ -1,4 +1,4 @@
-# Ariftly
+# ARiftly
 
 One platform for accessibility, security & AI readiness.
 Find the rifts before they break.
