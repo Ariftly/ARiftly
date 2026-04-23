@@ -1,22 +1,8 @@
 # ARiftly
 
-One platform for accessibility, security & AI readiness.
-Find the rifts before they break.
-
-→ ARiftly.io | Early access now open
-
----
-
-## What is ARiftly?
-
-ARiftly is a unified digital risk intelligence platform. 
-Instead of running three separate tools, engineering and 
-security teams get one dashboard that scans for:
-
-- ♿ Accessibility gaps (WCAG compliance)
-- 🔐 Security vulnerabilities (OWASP coverage)
-- 🤖 AI data readiness
-
+The Intelligence Layer
+above your stack.
+Autonomous Agents that act. Not chat.
 ---
 
 ## This Repository
@@ -34,8 +20,6 @@ This is ARiftly's public community repo. Use it to:
 ## Getting Started
 
 → Sign up at ARiftly.io
-→ Docs coming soon
-
 ---
 
 ## Connect
